@@ -1,0 +1,43 @@
+_repo: Pussy-and-Doggy-Tales_27190
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kemp-Welch, Lucy
+    alias: Kemp-Welch, Lucy E.
+    birthdate: 1869
+    deathdate: 1958
+    gutenberg_agent_id: '32524'
+    url: http://www.gutenberg.org/2009/agents/32524
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Nesbit, Edith
+    - Bland, Edith Nesbit
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2008-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27190'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: 'Pussy tales: Too clever by half. The white Persian. A powerful friend.
+  A silly question. The selfish pussy. Meddlesome pussy. Nine lives -- Doggy tales:
+  Tinker. Rats!. The tables turned. A noble dog. The dyer''s dog. The vain setter.'
+title: Pussy and Doggy Tales
+url: http://www.gutenberg.org/ebooks/27190
